@@ -1,0 +1,27 @@
+{
+  "healthPointsApp": {
+    "points": {
+      "home": {
+        "title": "Points",
+        "createLabel": "नवीन Points तयार करा",
+        "createOrEditLabel": "Points तयार किंवा संपादित करा",
+        "notFound": "No Points found"
+      },
+      "created": "Points [identifier: {{ param }}] तयार आहे",
+      "updated": "Points [identifier: {{ param }}] सुधारित केले आहे",
+      "deleted": "Points [identifier: {{ param }}] हटविले आहे",
+      "delete": {
+        "question": "Points [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+      },
+      "detail": {
+        "title": "Points"
+      },
+      "date": "Date",
+      "exercise": "Exercise",
+      "meals": "Meals",
+      "alcohol": "Alcohol",
+      "notes": "Notes",
+      "user": "User"
+    }
+  }
+}

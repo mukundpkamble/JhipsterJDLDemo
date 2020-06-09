@@ -1,0 +1,24 @@
+{
+  "healthPointsApp": {
+    "preferences": {
+      "home": {
+        "title": "Preferences",
+        "createLabel": "नवीन Preferences तयार करा",
+        "createOrEditLabel": "Preferences तयार किंवा संपादित करा",
+        "notFound": "No Preferences found"
+      },
+      "created": "Preferences [identifier: {{ param }}] तयार आहे",
+      "updated": "Preferences [identifier: {{ param }}] सुधारित केले आहे",
+      "deleted": "Preferences [identifier: {{ param }}] हटविले आहे",
+      "delete": {
+        "question": "Preferences [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+      },
+      "detail": {
+        "title": "Preferences"
+      },
+      "weeklyGoal": "Weekly Goal",
+      "weightUnits": "Weight Units",
+      "user": "User"
+    }
+  }
+}
