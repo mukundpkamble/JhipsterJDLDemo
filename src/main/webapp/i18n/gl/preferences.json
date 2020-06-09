@@ -1,0 +1,24 @@
+{
+  "healthPointsApp": {
+    "preferences": {
+      "home": {
+        "title": "Preferences",
+        "createLabel": "Crear novo Preferences",
+        "createOrEditLabel": "Crear ou editar Preferences",
+        "notFound": "No Preferences found"
+      },
+      "created": "Un novo Preferences foi creado co identificador {{ param }}",
+      "updated": "Un Preferences foi actualizado co identificador {{ param }}",
+      "deleted": "Un Preferences foi eliminado co identificador {{ param }}",
+      "delete": {
+        "question": "Seguro que desexa eliminar Preferences {{ id }}?"
+      },
+      "detail": {
+        "title": "Preferences"
+      },
+      "weeklyGoal": "Weekly Goal",
+      "weightUnits": "Weight Units",
+      "user": "User"
+    }
+  }
+}

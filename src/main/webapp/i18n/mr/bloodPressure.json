@@ -1,0 +1,25 @@
+{
+  "healthPointsApp": {
+    "bloodPressure": {
+      "home": {
+        "title": "Blood Pressures",
+        "createLabel": "नवीन Blood Pressure तयार करा",
+        "createOrEditLabel": "Blood Pressure तयार किंवा संपादित करा",
+        "notFound": "No Blood Pressures found"
+      },
+      "created": "Blood Pressure [identifier: {{ param }}] तयार आहे",
+      "updated": "Blood Pressure [identifier: {{ param }}] सुधारित केले आहे",
+      "deleted": "Blood Pressure [identifier: {{ param }}] हटविले आहे",
+      "delete": {
+        "question": "Blood Pressure [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+      },
+      "detail": {
+        "title": "Blood Pressure"
+      },
+      "timestamp": "Timestamp",
+      "systolic": "Systolic",
+      "diastolic": "Diastolic",
+      "user": "User"
+    }
+  }
+}
